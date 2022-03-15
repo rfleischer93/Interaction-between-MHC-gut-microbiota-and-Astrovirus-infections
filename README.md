@@ -13,7 +13,7 @@ Data and code files:
 2) MHC
 
 
-3)Alpha diversity
+3) Alpha diversity
 
 Aj_class_alpha_final.RDS # phyloseq object <br>
 
