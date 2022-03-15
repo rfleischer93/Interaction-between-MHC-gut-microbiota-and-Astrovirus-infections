@@ -13,15 +13,13 @@ Data and code files:
 
 
 ### Alpha diversity ###
-
+Aj_class_alpha_final.RDS # phyloseq object <br>
 
 ### CCA ###
 
 
 ### Ancom ###
 
-Ancom_phylo.RDS  # phyloseq object 
-
-ancom_v2.1.R     # source code for Ancom analysis from # 
-
-ANCOM_Code.R     # analysis and plot code
+Ancom_phylo.RDS  # phyloseq object <br>
+ancom_v2.1.R     # source code for Ancom analysis from # <br>
+ANCOM_Code.R     # analysis and plot code <br>
