@@ -7,20 +7,20 @@ This repository contains R code and data for our paper:
 
 Data and code files:
 
-### DAPC ###
+## DAPC ##
 
 
-### MHC ###
+## MHC ##
 
 
-### Alpha diversity ###
+## Alpha diversity ##
 Aj_class_alpha_final.RDS # phyloseq object <br>
 
 
-### CCA ###
+## CCA ##
 
 
-### Ancom ###
+## Ancom ##
 Ancom_phylo.RDS # phyloseq object <br>
 ancom_v2.1.R    # source code for Ancom analysis from # <br>
 ANCOM_Code.R    # analysis and plot code <br>
