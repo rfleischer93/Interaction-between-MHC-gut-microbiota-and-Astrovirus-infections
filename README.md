@@ -13,10 +13,10 @@ Data and code files:
 2) MHC
 
 
-3) Microbiota analyses (rarefied and unrarefied)
-3a) Alpha diversity
-3b) CCA
-3c) Ancom
+3) Microbiota analyses (rarefied and unrarefied) <br>
+3a) Alpha diversity <br>
+3b) CCA <br>
+3c) ANCOM <br>
 
 Aj_class_unrare.RDS -------- unrarefied phyloseq object with unrarefied data <br>
 Aj_class_rare_11000.RDS --- rarefied phyloseq object to 11000 reads <br>
