@@ -15,8 +15,8 @@ Data and code files:
 
 3) Alpha diversity
 
-Aj_class_alpha_final.RDS # unrarefied phyloseq object with unrarefied microbiome data <br>
-# rarefied phyloseq object to 11000 reads
+Aj_class_unrare.RDS # unrarefied phyloseq object with unrarefied microbiome data <br>
+Aj_class_rare_11000.RDS # rarefied phyloseq object to 11000 reads
 
 4) CCA
 
