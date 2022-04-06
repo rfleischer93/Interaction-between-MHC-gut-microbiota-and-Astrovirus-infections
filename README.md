@@ -7,16 +7,13 @@ This repository contains R code and data for our paper:
 
 Data and code files:
 
-1) DAPC 
+1) MHC
 
 
-2) MHC
-
-
-3) Microbiota analyses (rarefied and unrarefied) <br>
-3a) Alpha diversity <br>
-3b) CCA <br>
-3c) ANCOM <br>
+2) Microbiota analyses (rarefied and unrarefied) <br>
+2a) Alpha diversity <br>
+2b) CCA <br>
+2c) ANCOM <br>
 
 Aj_class_unrare.RDS -------- unrarefied phyloseq object with unrarefied data <br>
 Aj_class_rare_11000.RDS --- rarefied phyloseq object to 11000 reads <br>
