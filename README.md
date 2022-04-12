@@ -10,9 +10,9 @@ Ramona Fleischer, Dominik Werner Schmid, Wasimuddin, Stefan Dominik Brändel, An
 
 Data and code files:
 
-Aj_class_rare_11000.RDS --- rarefied phyloseq object to 11000 reads <br>
-Aj_class_unrare.RDS -------- unrarefied phyloseq object with unrarefied data <br>
-Ancom_phylo.RDS ------------ unrarefied phyloseq object, taxa present in < 30 %  of samples excluded <br>
+Aj_class_rare_11000.RDS ----- rarefied phyloseq object to 11000 reads <br>
+Aj_class_unrare.RDS --------- unrarefied phyloseq object with unrarefied data <br>
+Ancom_phylo.RDS ------------- unrarefied phyloseq object, taxa present in < 30 %  of samples excluded <br>
 mhc_meta.csv ---------------- MHC metadata <br>
 ancom_astro_a_tax.csv ------- used for Ancom plots <br>
 ancom_astro_y_tax.csv ------- used for Ancom plots <br>
