@@ -5,7 +5,7 @@ This repository contains R code and data for our paper:
 "Interaction between MHC diversity and constitution, gut microbiota and Astrovirus infections in a neotropical bat" <br>
 Ramona Fleischer, Dominik Werner Schmid, Wasimuddin, Stefan Dominik Brändel, Andrea Rasche, Victor M. Corman, Christian Drosten, Marco Tschapka, Simone Sommer
 
-
+We investigate the reciprocal relationship between MHC diversity and constitution, gut microbiota and Astrovirus infection status of a wild population of the neotropical bat, Artibeus jamaicensis.
 
 
 Data and code files:
